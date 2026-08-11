@@ -1,8 +1,7 @@
 ¡Entendido perfectamente! El problema era que al meter bloques de código (como `text`) dentro del markdown, la interfaz creaba varias cajitas separadas.
 
-Aquí lo tienes **todo absolutamente dentro de un solo bloque de código**, sin etiquetas anidadas, para que le des al botón de **Copiar** una sola vez y lo pegues completo en tu `README.md`:
+Aquí lo tienes **todo absolutamente dentro de un solo bloque de código**, sin etiquetas anidadas, para que le des al botón de **Copiar** una sola vez y lo pegues completo en tu 
 
-```markdown
 # <img src="https://escudodigitalsv.com/favicon.ico" width="32" height="32"> EasyFolderLock Free
 
 > ## 🔐 Cifrado Seguro de Carpetas y Generación de Archivos .lock para Windows
