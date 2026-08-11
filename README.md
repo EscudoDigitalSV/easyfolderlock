@@ -243,5 +243,3 @@ Desarrollado por **Escudo Digital SV**
 © 2026 Escudo Digital SV. Todos los derechos reservados.
 
 </div>
-
-```
