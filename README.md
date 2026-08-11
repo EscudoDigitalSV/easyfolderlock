@@ -58,18 +58,101 @@ $$\text{EFL1} + \text{Salt} + \text{Nonce} + \text{Datos cifrados}$$
 
 ---
 
-# 💎 Comparativa de Versiones
+# 💎 Comparativa de Licencias y Descarga
 
-| Función | 🆓 EasyFolderLock Free | ⭐ EasyFolderLock Pro |
-| --- | --- | --- |
-| Cifrado AES-GCM | ✅ | ✅ |
-| Formato `.lock` (EFL1) | ✅ | ✅ |
-| Compresión ZIP previa | ✅ | ✅ |
-| Ocultar archivos `.lock` | ✅ | ✅ |
-| Herramientas avanzadas adicionales | ❌ | ✅ |
-| Soporte técnico prioritario | ❌ | ✅ |
-| **Precio** | **GRATIS** | **CONSULTAR WEB** |
-| **Enlace** | [sitio web oficial](https://escudodigitalsv.com) | [Ver Versión Pro](https://escudodigitalsv.com) |
+<table>
+<tr>
+<th>Funciones</th>
+<th>🆓 Gratis (Free)</th>
+<th>⭐ Licencia Pro</th>
+</tr>
+
+<tr>
+<td>Cifrado AES-GCM</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Protección mediante contraseña</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Salt y Nonce aleatorio</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Compresión ZIP previa</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Formato .lock (EFL1)</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Ocultar archivos .lock</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Soporte Drag & Drop y búsqueda</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Herramientas avanzadas adicionales</td>
+<td align="center">❌</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td>Soporte prioritario</td>
+<td align="center">❌</td>
+<td align="center">✅</td>
+</tr>
+
+<tr>
+<td><b>Duración / Acceso</b></td>
+<td align="center"><b>GRATIS</b></td>
+<td align="center"><b>PARA SIEMPRE</b></td>
+</tr>
+
+<tr>
+<td><b>Acción</b></td>
+
+<td align="center">
+<a href="https://escudodigitalsv.com">
+<img src="https://img.shields.io/badge/PROBAR_GRATIS-blue?style=for-the-badge&logo=windows11&logoColor=white">
+</a>
+</td>
+
+<td align="center">
+<a href="https://escudodigitalsv.com">
+<img src="https://img.shields.io/badge/🛒_COMPRAR_AHORA-escudodigitalsv.com-blue?style=for-the-badge">
+</a>
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<p align="center">
+  <a href="https://escudodigitalsv.com">
+    <img src="https://img.shields.io/github/downloads/escudodigitalsv/easyfolderlock/total?style=for-the-badge&color=28a745&logo=github" alt="Descargas">
+  </a>
+</p>
 
 ---
 
