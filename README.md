@@ -228,8 +228,8 @@ EFL1 + Salt + Nonce + Datos cifrados
 
 # 🐛 Reportar un Problema
 
-Si encuentras un error o comportamiento inesperado, puedes abrir un **Issue** indicando:
-* Versión de EasyFolderLock
+Si encuentras un error o comportamiento inesperado, puedes enviarnos un correo a **soporte@escudodigitalsv.com** indicando:
+* Versión de EasyFolderLock Pro
 * Versión de Windows
 * Pasos para reproducir el problema
 * Mensaje de error
