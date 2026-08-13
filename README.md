@@ -1,4 +1,4 @@
-# <img src="https://escudodigitalsv.com/favicon.ico" width="32" height="32"> EasyFolderLock Free
+# <img src="https://i.servimg.com/u/f34/20/32/08/60/easyfo10.png" width="32" height="32"> EasyFolderLock Free
 
 > ## 🔐 Cifrado Seguro de Carpetas y Generación de Archivos .lock para Windows
 >
