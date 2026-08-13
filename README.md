@@ -1,8 +1,8 @@
-# <img src="https://i.servimg.com/u/f34/20/32/08/60/easyfo10.png" width="32" height="32"> EasyFolderLock Free
+# <img src="https://i.servimg.com/u/f34/20/32/08/60/easyfo10.png" width="32" height="32"> EasyFolderLock
 
 > ## 🔐 Cifrado Seguro de Carpetas y Generación de Archivos .lock para Windows
 >
-> **EasyFolderLock Free** es una herramienta para Windows diseñada para proteger carpetas de forma sencilla. La aplicación comprime la carpeta, cifra su contenido y genera un único archivo `.lock` protegido mediante contraseña.
+> **EasyFolderLock** es una herramienta para Windows diseñada para proteger carpetas de forma sencilla. La aplicación comprime la carpeta, cifra su contenido y genera un único archivo `.lock` protegido mediante contraseña.
 >
 > Ideal para usuarios que necesitan una forma rápida, eficiente y segura de proteger su información personal o profesional sin complicaciones.
 
@@ -10,7 +10,7 @@
 
 # ✨ Características Principales
 
-EasyFolderLock Free incluye las funciones esenciales de bloqueo, cifrado y restauración de carpetas:
+EasyFolderLock incluye las funciones esenciales de bloqueo, cifrado y restauración de carpetas:
 
 * 🔐 **Cifrado AES-GCM:** Protección robusta de alta seguridad para tu información.
 * 🔑 **Protección mediante Contraseña:** Acceso restringido únicamente mediante clave definida por el usuario.
