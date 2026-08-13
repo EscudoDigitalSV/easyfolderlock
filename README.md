@@ -8,6 +8,13 @@
 
 ---
 
+<div align="center">
+  <h2>📸 Captura de Pantalla</h2>
+  <img src="https://i.servimg.com/u/f34/20/32/08/60/eflfre10.png" alt="USB Vault Pro Interface" width="600">
+</div>
+
+---
+
 # ✨ Características Principales
 
 EasyFolderLock incluye las funciones esenciales de bloqueo, cifrado y restauración de carpetas:
