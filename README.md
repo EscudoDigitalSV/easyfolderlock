@@ -62,8 +62,8 @@ EFL1 + Salt + Nonce + Datos cifrados
 <table>
 <tr>
 <th>Funciones</th>
-<th>🆓 Gratis (Free)</th>
-<th>⭐ Versión Pro</th>
+<th>Gratis (Trial)</th>
+<th>Licencia Vitalicia</th>
 </tr>
 
 <tr>
