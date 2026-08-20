@@ -1,18 +1,5 @@
 # <img src="https://i.servimg.com/u/f34/20/32/08/60/easyfo10.png" width="32" height="32"> EasyFolderLock
 
----
-
-# 🆕 Novedades
-
-[#-novedades](#-novedades)
-
-### v1.1.1
-
-- 👁️ **Archivos ocultos visibles al seleccionar `.lock`:** el diálogo de selección de archivos ahora es un diálogo propio de Qt (no el nativo de Windows), por lo que muestra los archivos y carpetas ocultos **solo dentro de esa ventana**, sin necesidad de cambiar la configuración de "Mostrar archivos ocultos" del Explorador de Windows.
-- 💬 El propio título del diálogo indica "👁 se muestran también los archivos ocultos", y se mejoró el tooltip del botón de selección para que la función sea más fácil de descubrir.
-
----
-
 > ## 🔐 Cifrado Seguro de Carpetas y Generación de Archivos .lock para Windows
 >
 > **EasyFolderLock** es una herramienta para Windows diseñada para proteger carpetas de forma sencilla. La aplicación comprime la carpeta, cifra su contenido y genera un único archivo `.lock` protegido mediante contraseña.
