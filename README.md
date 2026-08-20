@@ -33,7 +33,7 @@ EasyFolderLock incluye las funciones esenciales de bloqueo, cifrado y restauraci
 * 💾 **Copia de Seguridad:** Opción para conservar la carpeta original tras el bloqueo.
 * 📊 **Barra de Progreso y Registro:** Monitoreo visual y log detallado de operaciones.
 * 🇪🇸 **Interfaz en Español:** Diseñada para ser clara, intuitiva y fácil de usar.
-* 🛠️ **Mejoras internas y de mantenimiento.
+* 🛠️ **Mejoras internas y de mantenimiento.**
 
 ---
 
