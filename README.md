@@ -36,6 +36,24 @@ EasyFolderLock incluye las funciones esenciales de bloqueo, cifrado y restauraci
 
 ---
 
+# 🆕 Actualización — Versión 1.1.0
+
+### Mejoras en la selección de archivos `.lock`
+
+Se mejoró el sistema de selección de archivos `.lock` para facilitar la localización de archivos ocultos en Windows.
+
+* 👁 **Los archivos ocultos ahora son visibles dentro del diálogo de selección `.lock`.**
+* 🪟 La visualización de archivos ocultos se limita únicamente a EasyFolderLock y **no modifica la configuración del Explorador de Windows**.
+* 💡 El diálogo informa al usuario mediante un aviso de que los archivos ocultos también están visibles.
+* 🖱️ Se mejoró el tooltip del botón de selección para hacer más clara esta función.
+* 🔒 Se mantiene el funcionamiento normal de los archivos `.lock` y del sistema de cifrado.
+
+Esta mejora está disponible en **EasyFolderLock y EasyFolderLock Pro**.
+
+**Versión actual: `1.1.0`**
+
+--
+
 # 🔒 ¿Cómo funciona?
 
 ### 📥 Proceso de Bloqueo
