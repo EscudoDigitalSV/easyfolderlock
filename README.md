@@ -52,7 +52,7 @@ Esta mejora está disponible en **EasyFolderLock y EasyFolderLock Pro**.
 
 **Versión actual: `1.1.0`**
 
---
+---
 
 # 🔒 ¿Cómo funciona?
 
